@@ -1,5 +1,7 @@
 # :rocket:  Letmeask
 
+Uma aplicação para qualquer pessoa que tenha a necessidade de criar/utilizar salas Q&A!
+
 ## Techs
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -35,9 +37,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 ## Projeto
 
-Letmeask é uma aplicação para qualquer pessoa que tenha a necessidade de criar/utilizar salas Q&A!
-
-Este é um projeto desenvolvido durante a Next Level Week Together da Rocketseat.
+Let me ask é um projeto desenvolvido durante a Next Level Week Together da Rocketseat.
 
 ## Layout
 
